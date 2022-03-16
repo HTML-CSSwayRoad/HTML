@@ -51,3 +51,6 @@ https://www.w3schools.com/cssref/pr_class_display.asp#:~:text=The%20display%20pr
 
 The position property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).  
 https://www.w3schools.com/css/css_positioning.asp
+
+**SEO оптимизация**
+
