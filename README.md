@@ -47,4 +47,7 @@ https://webref.ru/course/html-basics/semantics
 https://developer.mozilla.org/ru/docs/Web/CSS/display
 https://www.w3schools.com/cssref/pr_class_display.asp#:~:text=The%20display%20property%20specifies%20the,is%20inline%2C%20including%20SVG%20elements.
 
+свойство position
 
+The position property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).  
+https://www.w3schools.com/css/css_positioning.asp
