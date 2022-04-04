@@ -8,3 +8,5 @@ A block-level element wouldn't be nested inside an inline element, but it might 
 **Inline elements** are contained within block-level elements, and surround only small parts of the document's content  
 (not entire paragraphs or groupings of content). An inline element will not cause a new line to appear in the document.  
 It is typically used with text, for example an <a> element creates a hyperlink, and elements such as <em> or <strong> create emphasis.
+  
+
