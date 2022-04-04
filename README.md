@@ -8,10 +8,10 @@ https://webdevblog.ru/kak-brauzer-renderit-veb-stranicu/
 
 **HTML** — язык разметки для создания веб-страниц.  
 HTML состоит из набора элементов.  
-Элементы HTML сообщают браузеру, как отображать содержимое.
+Элементы HTML сообщают браузеру, как отображать содержимое.  
 
-HTML используется для создания веб-страниц и веб-приложений.
-
+**HTML (Hypertext Markup Language) is a markup language that tells web browsers how to structure the web pages.**
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
 **Элемент HTML?**  
 Элемент HTML определяется начальным тегом, некоторым содержимым и конечным тегом.  
