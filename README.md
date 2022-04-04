@@ -1,5 +1,8 @@
 # HTML
 
+**Бра́узер** —  программное обеспечение для просмотра страниц.  
+**Веб-страница**  — документ или информационный ресурс Всемирной паутины, доступ к которому осуществляется с помощью веб-браузера. 
+
 **Good to know**
 https://www.javatpoint.com/html-tutorial
 
@@ -14,12 +17,8 @@ HTML состоит из набора элементов.
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
 **Элемент HTML?**  
-Элемент HTML определяется начальным тегом, некоторым содержимым и конечным тегом.  
-Элемент HTML — это все, от начального тега до конечного тега:
+An HTML element is defined by a start tag, some content, and an end tag.
 
-
-**Бра́узер** —  программное обеспечение для просмотра страниц.  
-**Веб-страница**  — документ или информационный ресурс Всемирной паутины, доступ к которому осуществляется с помощью веб-браузера. 
 
 What is DOM?
 https://www.w3schools.com/whatis/whatis_htmldom.asp
@@ -65,6 +64,6 @@ The **<head>** element contains meta information about the HTML page
 The **<title>** element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)  
 The **<body>** element defines the document's body, and is a container for all the visible contents,    
 such as headings, paragraphs, images, hyperlinks, tables, lists, etc.  
-The **<h1>** element defines a large heading    
+The **h** element defines a large heading    
 The **<p>** element defines a paragraph
 
