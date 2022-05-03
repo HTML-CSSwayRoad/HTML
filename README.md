@@ -67,5 +67,6 @@ such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 The **h** element defines a large heading    
 The **<p>** element defines a paragraph
   
-**action** in form it is thatn where form will send
+**action** in form it is that where form will send  
+Every input has name  and value name=key value=velue
 
