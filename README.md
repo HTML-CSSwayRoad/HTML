@@ -66,4 +66,6 @@ The **<body>** element defines the document's body, and is a container for all t
 such as headings, paragraphs, images, hyperlinks, tables, lists, etc.  
 The **h** element defines a large heading    
 The **<p>** element defines a paragraph
+  
+**action** in form it is thatn where form will send
 
