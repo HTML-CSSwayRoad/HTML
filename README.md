@@ -18,6 +18,8 @@ HTML состоит из набора элементов.
 **HTML (Hypertext Markup Language) is a markup language that tells web browsers how to structure the web pages.**
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
 
+**HTML** - текстовый файл, который умеет читать  браузер.
+
 **Элемент HTML?**  
 An HTML element is defined by a start tag, some content, and an end tag.
 
