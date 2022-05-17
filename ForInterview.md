@@ -71,10 +71,15 @@ https://developer.mozilla.org/en-US/docs/Glossary/DOM
 Но в результате действия людей, желающих попасть в верхние строчки поисковых систем любыми средствами, теперь дискредитирован.  
 Поэтому многие поисковики пропускают этот параметр.
   
-Authore and Setting the viewport to make your website look good on all devices:
+Authore and Setting the viewport to make your website look good on all devices   
+  
+https://developers.google.com/search/docs/advanced/crawling/special-tags
   
 ## Семантика  
 
+В программировании, Семантика означает значение фрагмента кода - например,  
+«к какому результату приведёт выполнение этой строки JavaScript?», или «каково предназначение или какая роль  
+у этого элемента HTML» (а не «как он выглядит ?».)
 
 
 **3 Атрибут**  
