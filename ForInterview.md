@@ -112,5 +112,38 @@ CSS селектор - это описание элемента, к которо
 **content-box** - к ширине контента ничего не добавляется. Используется по-умолчанию.
 
 
+**HTML-атрибуты** это специальные слова, которые управляют поведением HTML-элемента. Они добавляют  
+дополнительную функциональность, либо меняют поведение элемента по умолчанию. Атрибуты элемента выражаются внутри начального тега элемента.
+  
+**Атрибут** — не обязательное свойство тега.
+Нужен для описания более детальных характеристик html-элемента. Помещается внутри тега, и состоит из конструкции: ключ="значение".
+  
+**src** — Указывает адрес файла, который будет загружаться на сайте.  
+**href**— Указывает адрес документа, на который следует перейти.  
+**class** — определяет одно или несколько имен для HTML элемента.  Позволяет связать определенный тег с его стилями или javascript логикой.
+  
+## HTML absolute and relative path
+  
+**The relative path** means that the path to the file or page of the site is specified relative to  
+the directory in which the current page is located, or relative to the root directory of the site. 
+  
+**An absolute path** is usually used to specify the path to a file that is located on another network resource.  
+It is a complete URL to a file or page. In the absolute path, the protocol is first specified, followed by  
+the domain name (site name). For example: http://www.example.com - this is how the absolute path to a particular  
+website looks. http:// is a data transfer protocol, and www.example.com is the name of the site (domain)
+  
+  
+**CSS стили** отвечают за визуальное представление документа пользователю. Представляют собой набор css селекторов,  
+и перечня css стилей для этого селектора, состоящих из конструкции ключ: значение; разделенных точкой с запятой.  
+CSS селектор - это описание элемента, к которому будут применяться свойства. Может выбираться по:  
+Тегу (селектору): div{...}  
+Классу (атрибут класс) .element{...}  
+Идентификатору, атрибуту и/или его содержимому (в более редких случаях).
+  
+Табуляция  
+https://guruweba.com/web/tabulyatsiya-v-html-4-sposoba-sdelat-otstup-nerazryvniy-probel/#:~:text=%D0%A1%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D1%8B%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20%D1%82%D0%B0%D0%B1%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8E%20%D0%B2%20HTML%3A&text=%D0%A1%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E%20%D1%81%D0%BF%D0%B5%D1%86%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B0%20%D0%BD%D0%B5%D1%80%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B1%D0%B5%D0%BB,white%2Dspace%20%D0%B8%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D0%BF%D1%80%D0%BE%D0%B1%D0%B5%D0%BB%D1%8B.
+  
+Проходим псевдоклассы :link; :visited; :active; :focus; :hover рассказать про сброс hover на примере
+
 
 
