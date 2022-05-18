@@ -20,6 +20,10 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting
 
 **HTML - текстовый файл, который умеет читать  браузер.**
 
+HTML представляет собой язык разметки гипертекста, который предназначен для создания веб-страниц.  
+Когда такая страница открывается в браузере, он просматривает код HTML, находит специальные символы,  
+называемые тегами, и использует их для создания элементов, таких как: рисунки, таблицы, ссылки и др.
+
 **Элемент HTML?**  
 An HTML element is defined by a start tag, some content, and an end tag.
 
@@ -77,4 +81,6 @@ The **<p>** element defines a paragraph
   
 **action** in form it is that where form will send  
 Every input has name  and value name=key value=velue
+  
+**Мнемоники или спецсимволы гипертекстовой разметке** как правило применяются для отображения на вебстранице символов отсутствующих на клавиатуре 
 
