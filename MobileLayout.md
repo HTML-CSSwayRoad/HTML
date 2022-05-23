@@ -1,6 +1,9 @@
 # MobileLayout   
 
 https://docs.google.com/presentation/d/1WSq6UpSpGbhnZHx7qZ-USmsZfj46aK27s1vRrdaFVo8/edit#slide=id.g631b0001c8_0_59  
+https://dinarys.com/ru/blog/difference-between-responsive-and-adaptive-web-design  
+https://html5book.ru/otzyvchivyj-dizayn-saita/  
+https://likeit.pro/blog/aktualnye-tipy-vyerstki/
 
 **Медиа-запросы (media queries) – это правила CSS, которые позволяют управлять стилями элементов в зависимости от значений технических параметров устройств.**
 
