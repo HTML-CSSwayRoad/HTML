@@ -39,3 +39,7 @@ https://graphicdesign.stackexchange.com/questions/44855/why-are-raster-images-st
 https://afosto.com/blog/avif-vs-webp-format/#:~:text=WebP%20only%20supports%20a%20maximum,and%20interactive%20supports%20HDR%20images.
 
 https://avif.io/blog/comparisons/avif-vs-webp/
+
+### Retina  
+
+http://devicebox.ru/retina-display/
