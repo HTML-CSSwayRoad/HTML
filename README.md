@@ -1,6 +1,7 @@
 # HTML
 
-MUST HAVE - https://drive.google.com/drive/u/1/folders/1jD958twJrNVAAm3hrWr4nB-kL8n8iYYx !!!
+MUST HAVE - https://drive.google.com/drive/u/1/folders/1jD958twJrNVAAm3hrWr4nB-kL8n8iYYx !!!  
+file:///E:/Programming/HTML_TMS_course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20HTML.pdf
 
 **Бра́узер** —  программное обеспечение для просмотра страниц.  
 **Веб-страница**  — документ или информационный ресурс Всемирной паутины, доступ к которому осуществляется с помощью веб-браузера. 
