@@ -32,3 +32,10 @@ Use Photoshop for scaling
 
 **Why do we dont use vector graphics anywhere?**
 https://graphicdesign.stackexchange.com/questions/44855/why-are-raster-images-still-used-when-vector-images-have-so-many-advantages
+
+
+### avif and webp  
+
+https://afosto.com/blog/avif-vs-webp-format/#:~:text=WebP%20only%20supports%20a%20maximum,and%20interactive%20supports%20HDR%20images.
+
+https://avif.io/blog/comparisons/avif-vs-webp/
