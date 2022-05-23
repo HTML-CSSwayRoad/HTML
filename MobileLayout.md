@@ -1,6 +1,8 @@
 # MobileLayout   
 
-https://docs.google.com/presentation/d/1WSq6UpSpGbhnZHx7qZ-USmsZfj46aK27s1vRrdaFVo8/edit#slide=id.g631b0001c8_0_59
+https://docs.google.com/presentation/d/1WSq6UpSpGbhnZHx7qZ-USmsZfj46aK27s1vRrdaFVo8/edit#slide=id.g631b0001c8_0_59  
+
+**Медиа-запросы (media queries) – это правила CSS, которые позволяют управлять стилями элементов в зависимости от значений технических параметров устройств.**
 
 **em** - относительная величина, единица которой будет равна высоте шрифта блока родителя. Те, если у блока родителя   
 font-size: 16px, то задав дочернему блоку width: 6.25em мы получим 100px. 
