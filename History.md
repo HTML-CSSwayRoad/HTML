@@ -45,4 +45,9 @@ Hyperlinks connect webpages or data items to one another.
 In HTML, <a> elements define hyperlinks from a spot on a webpage (like a text string or image)  
 to another spot on some other webpage (or even on the same page).
 
+### Pixel  
+https://www.geeksforgeeks.org/vector-vs-raster-graphics/
+Pixel : In Computer graphics a pixel, dots, or picture element is a physical point in a picture.  
+A pixel is simply the smallest addressable element of a picture represented on a screen.
+
 
