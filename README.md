@@ -103,3 +103,6 @@ Every input has name  and value name=key value=velue
 
 Фигуры
 https://habr.com/ru/post/126207/
+  
+Отступы  
+https://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html
