@@ -1,4 +1,5 @@
-**MUST HAVE https://www.geeksforgeeks.org/vector-vs-raster-graphics/**
+**MUST HAVE https://www.geeksforgeeks.org/vector-vs-raster-graphics/**  
+https://htmlacademy.ru/blog/boost/frontend/rastr-vector
 
 https://guides.lib.umich.edu/c.php?g=282942&p=1885352
 
