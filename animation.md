@@ -1,5 +1,8 @@
 https://docs.google.com/presentation/d/1_e0i5pPcueSae8NhMgtct_9CTrrFedGZ3chBdUtaTZw/edit#slide=id.g631b0001c8_0_173
 
+https://webref.ru/css/keyframes
+https://developer.mozilla.org/ru/docs/Web/CSS/transition
+
 ### Transform  
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/transform
