@@ -20,8 +20,9 @@ http://css.yoksel.ru/svg-fill-and-stroke/
 SVG, or Scalable Vector Graphics, is a language for describing vector graphics in XML. With SVG, you can code graphics directly into an XML document
 https://kb.iu.edu/d/afmr#:~:text=Rather%20than%20a%20grid%20of,place%20each%20of%20the%20components.
 
-
 Vector graphics are not appropriate for complex images (e.g., digitized photographs).
+
+Добавить картинку  https://svg-art.ru/?page_id=1047
 
 ## Raster(bitmap) graphic  
 
