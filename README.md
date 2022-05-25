@@ -101,8 +101,11 @@ Every input has name  and value name=key value=velue
 4. Еще более приоритетным является объявлением !important в конце свойства.
   
 
-Фигуры
+**Фигуры**
 https://habr.com/ru/post/126207/
   
-Отступы  
+**Отступы**  
 https://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html
+  
+**Из чего состоит блочная модель?**
+https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
