@@ -56,6 +56,8 @@ URLs consist of multiple parts -- including a protocol and domain name -- that t
 https://htmlacademy.ru/blog/boost/frontend/semantics  
 https://webref.ru/course/html-basics/semantics
 
+https://htmlacademy.ru/blog/articles/semantics?amp=1
+
 **Display**
 
 Свойство display (CSS) определяет тип отображения (display type) элемента,
