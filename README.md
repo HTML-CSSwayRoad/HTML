@@ -8,20 +8,6 @@ https://html5book.ru/html-html5/
 **Good to know**
 https://www.javatpoint.com/html-tutorial
 
-**Бра́узер** —  программное обеспечение для просмотра страниц.  
-**Веб-страница**  — документ или информационный ресурс Всемирной паутины, доступ к которому осуществляется с помощью веб-браузера.   
-**HTML** — язык гипертекстовой разметки для создания веб-страниц, представляет собой текстовый файл, который умеет читать  
-браузер. HTML состоит из набора элементов, элементы HTML сообщают браузеру, как отображать содержимое
-
-Когда такая страница открывается в браузере, он просматривает код HTML, находит специальные символы,  
-называемые тегами, и использует их для создания элементов, таких как: рисунки, таблицы, ссылки и др.
-
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
-
-**Элемент HTML?**  
-**Element** - это то из чего состоит web page.
-An HTML element is defined by a start tag, some content, and an end tag.  
-The HTML element is everything from the start tag to the end tag
 
 
 **Что такое HTTP?**  
@@ -32,12 +18,6 @@ https://www.techtarget.com/searchnetworking/definition/URL A URL (Uniform Resour
 is a unique identifier used to locate a resource on the Internet. It is also referred to as a web address.  
 URLs consist of multiple parts -- including a protocol and domain name -- that tell a web browser how and where to retrieve a resource.
 
-**Семантика**   
-Семантическая вёрстка — подход к разметке, который опирается не на содержание сайта, а на смысловое предназначение каждого блока и логическую структуру документа.  
-https://htmlacademy.ru/blog/boost/frontend/semantics  
-https://webref.ru/course/html-basics/semantics
-
-https://htmlacademy.ru/blog/articles/semantics?amp=1
 
 **Display**
 
@@ -59,16 +39,7 @@ https://www.w3schools.com/css/css_positioning.asp
 Attributes contain extra information about the element that won't appear in the content.  
 In this example, the class attribute is an identifying name used to target the element with style information.
 
-## Anatomy of an HTML document
 
-The **<!DOCTYPE html>** declaration defines that this document is an HTML5 document  
-The **<html>** element is the root element of an HTML page  
-The **<head>** element contains meta information about the HTML page  
-The **<title>** element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)  
-The **<body>** element defines the document's body, and is a container for all the visible contents,    
-such as headings, paragraphs, images, hyperlinks, tables, lists, etc.  
-The **h** element defines a large heading    
-The **<p>** element defines a paragraph
   
 **action** in form it is that where form will send  
 Every input has name  and value name=key value=velue
