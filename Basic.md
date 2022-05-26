@@ -30,3 +30,7 @@ https://htmlacademy.ru/blog/boost/frontend/semantics
 https://webref.ru/course/html-basics/semantics
 
 https://htmlacademy.ru/blog/articles/semantics?amp=1
+
+## Anatomy of an HTML document
+
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
