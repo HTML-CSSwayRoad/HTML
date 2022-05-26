@@ -1,16 +1,10 @@
 
-**HTML - текстовый файл, который умеет читать браузер.**  
 **Бра́узер** — программное обеспечение для просмотра страниц.  
 **Веб-страница** — документ или информационный ресурс Всемирной паутины, доступ к которому осуществляется с помощью веб-браузера.  
 **HTML document**
   http://www.etsav.upc.edu/assignatures/portafoli/tutorial1/3.html#:~:text=It's%20a%20text%20document%20saved,tutorials%20when%20applied%20and%20needed.
 
 **1 What is HTML?**
-**HTML** (HyperText Markup Language) - язык гипертекстовой разметки веб-страниц в браузере.  
-HTML (HyperText Markup Language) is the code that is used to structure a web page and its content.  
-For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.  
-HTML is a markup language that defines the structure of your web page and its content  
-HTML consists of a series of **elements**. 
 An **element** is a part of a webpage.  
 In XML and HTML, an element may contain a data item or a chunk of text or an image, or perhaps nothing.  
 A typical element includes an opening tag with some attributes, enclosed text content, and a closing tag.  
