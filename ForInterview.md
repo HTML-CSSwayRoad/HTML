@@ -26,16 +26,9 @@ Empty elements https://developer.mozilla.org/en-US/docs/Glossary/Empty_element
 ![Screenshot_26](https://user-images.githubusercontent.com/66359081/168785624-3b9a2536-9228-46c2-8dd7-cf53a6ee43ec.png)  
 ![Screenshot_1](https://user-images.githubusercontent.com/66359081/168785754-8c81cb0e-50df-4ac3-9c00-2cf887ad1017.png)
 
- ### DOM    
-https://developer.mozilla.org/en-US/docs/Glossary/DOM
-  
-**DOM** (объектная модель документа) — это API, который представляет и взаимодействует с любым документом HTML или XML.  
-**DOM** — это модель документа, загруженная в браузер и представляющая документ в виде дерева узлов,  
-  где каждый узел представляет часть документа (например, элемент, текстовую строку или комментарий).
   
 ### API  https://developer.mozilla.org/en-US/docs/Glossary/API  
   
-
 **2 Структурные теги**  
 
 **Доктайп**  
