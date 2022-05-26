@@ -20,7 +20,8 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting
 
 **Элемент HTML?**  
 **Element** - это то из чего состоит web page.
-An HTML element is defined by a start tag, some content, and an end tag.
+An HTML element is defined by a start tag, some content, and an end tag.  
+The HTML element is everything from the start tag to the end tag
 
 
 **Что такое HTTP?**  
