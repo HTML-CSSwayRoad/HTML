@@ -41,8 +41,6 @@ https://www.w3schools.com/css/css_positioning.asp
 
 Attributes contain extra information about the element that won't appear in the content.  
 In this example, the class attribute is an identifying name used to target the element with style information.
-
-
   
 **action** in form it is that where form will send  
 Every input has name  and value name=key value=velue
