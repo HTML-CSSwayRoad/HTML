@@ -43,3 +43,7 @@ https://www.simplilearn.com/tutorials/html-tutorial/html-semantics
 ## Anatomy of an HTML document
 
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+
+## Hyperlink
+
+[https://developer.mozilla.org/en-US/docs/Glossary/Hyperlink](https://developer.mozilla.org/en-US/docs/Glossary/Hyperlink)
