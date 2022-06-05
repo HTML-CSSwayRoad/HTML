@@ -1,3 +1,18 @@
+**Interner** —  программное обеспечение для просмотра страниц.  
+https://developer.mozilla.org/en-US/docs/Glossary/Internet  
+
+https://developer.mozilla.org/en-US/docs/Glossary/TCP  
+
+**A host (also known as "network host") is a computer or other device that communicates with other hosts on a network.**
+
+https://developer.mozilla.org/en-US/docs/Glossary/IPv6
+
+**URI**  
+https://developer.mozilla.org/en-US/docs/Glossary/URI
+
+**URL**  
+https://developer.mozilla.org/en-US/docs/Glossary/URL
+
 **Бра́узер** —  программное обеспечение для просмотра страниц. 
 
 **Веб-страница**  — документ или информационный ресурс Всемирной паутины, доступ к которому осуществляется с помощью веб-браузера.  
