@@ -64,3 +64,6 @@ https://docs.google.com/presentation/d/1_e0i5pPcueSae8NhMgtct_9CTrrFedGZ3chBdUta
   
   
 Perspective указывает удаление по оси Z, регулирует глубину сцены (расстояние элемента от зрителя).
+
+**Multimedia and embedding**
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding
