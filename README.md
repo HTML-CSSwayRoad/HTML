@@ -3,6 +3,9 @@
 MUST HAVE - https://drive.google.com/drive/u/1/folders/1jD958twJrNVAAm3hrWr4nB-kL8n8iYYx !!!  
 file:///E:/Programming/HTML_TMS_course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20HTML.pdf  
 
+**HTML5**  
+https://www.freecodecamp.org/news/html-and-html5-example/
+
 Use file from PC for the additional informations
 
 
